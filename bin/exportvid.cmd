@@ -1,11 +1,11 @@
 @echo off
 
-rem exportvid.cmd: Version 0.3
+rem exportvid.cmd: Version 0.3.1
 rem  part of Exportvid package (see below)
 rem
 rem exportvid: Export most video files to a chosen platform/format
 rem
-rem  (c) Copyright 2011 Rowan Thorpe <rowan _at_ rowanthorpe [dot] com>
+rem  (c) Copyright 2011,2013 Rowan Thorpe <rowan _at_ rowanthorpe [dot] com>
 rem
 rem    This program is free software: you can redistribute it and/or modify
 rem    it under the terms of the GNU Affero General Public License as published by

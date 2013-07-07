@@ -5,7 +5,7 @@ TODO:
 
 * Implement expanding and looping over wildcards as input ("globbing").
 
-* Find a locale-independent, portable wasy to set creation time from system time using batch-script (almost impossible - not worth it..?).
+* Find a locale-independent, portable way to set creation time from system time using batch-script (almost impossible - not worth it..?).
  => Parse and insert datetime metadata properly.
 
 * Don't just presume a recent version of ffmpeg - try to adapt behaviour based on installed version of ffmpeg.

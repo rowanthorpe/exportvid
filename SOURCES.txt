@@ -1,2 +1,2 @@
 A version of this package including sources for bundled binaries (if any) can
-always be downloaded from http://sourceforge.net/projects/exportvid
+always be downloaded from http://github.com/rowanthorpe/exportvid

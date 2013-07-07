@@ -1,7 +1,0 @@
-until 2011-07-30 exportvid 0.1 -> 0.2
-
-    First (non-user-friendly) versions...
-
-2011-08-08 exportvid 0.3
-
-	Cleaned up code and properly bundled binaries, license info, etc.

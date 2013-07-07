@@ -1,0 +1,29 @@
+2013-07-07  Rowan Thorpe  <rowan@rowanthorpe.com>
+
+	* Patch-Version bump (v0.3.1)
+
+	* Reformat docs more sanely.
+
+	* CHANGES.txt, COPYING.txt, TODO.txt: Move into base-dir.
+
+	* CHANGES.txt: Cleanup file format, order.
+
+	* exportvid.cmd: Update copyright years.
+
+	* Migrate from sourceforge to github hosting.
+
+	* README.txt: Add summary info & copyright, "features" from SF, reformat.
+
+	* .gitignore: Add empty.
+
+2011-08-08  Rowan Thorpe  <rowan@rowanthorpe.com>
+
+	* Minor-Version bump (v0.3)
+
+	* Clean up code and properly bundled binaries, license info, etc.
+
+<= 2011-07-30  Rowan Thorpe  <rowan@rowanthorpe.com>
+
+	* Minor-Version bump (v0.2)
+
+	* First (non-user-friendly) versions...
